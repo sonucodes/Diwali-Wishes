@@ -1,5 +1,5 @@
 # Diwali-Wishes
 
-Random Diwali Wishes 
+#### Random Diwali Wishes 
 
- Live Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/) 
+See Live Demo on [https://sonucodes.github.io/Diwali-Wishes/](https://sonucodes.github.io/Diwali-Wishes/) 
