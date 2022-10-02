@@ -1,28 +1,11 @@
 # Diwali Wishes
 
 
-
-
-
-
-![Diwali Wishes](https://user-images.githubusercontent.com/51280276/147372203-0709154d-3c82-461a-af83-0883e71d2517.png)
-
 <br/>
 
 ##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
 
-## Want to contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/Diwali-Wishes/pulls)
-
-> Please check issues **[here](https://github.com/flyingsonu122/JSON/issues)**!
-
-**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
-
-
-
-
-**MIT &copy; [Sonu kumar kushwaha]()**
 
 ## Thanks!
 
